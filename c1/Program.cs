@@ -11,5 +11,5 @@ int max = Number1;
 if(Number1 > max) max = Number1;
 if(Number2 > max) max = Number2;
 if(Number3 > max) max = Number3;
-Console.Write("Большее число ");
+Console.Write("Большее число");
 Console.WriteLine(max);
