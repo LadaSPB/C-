@@ -4,7 +4,6 @@ PrintArray(table);
 SortToLower(table);
 Console.ForegroundColor = ConsoleColor.DarkGreen;
 Console.WriteLine("Упорядоченный массив по убыванию в каждой строке: ");
-
 PrintArray(table);
 
 
