@@ -6,7 +6,6 @@ int n = Convert.ToInt32(Console.ReadLine());
 
 SumFromMToN(m, n);
 
-// вызов функции "сумма чисел от M до N"
 void SumFromMToN(int m, int n)
 {
     Console.ForegroundColor = ConsoleColor.DarkGreen;
@@ -15,7 +14,6 @@ void SumFromMToN(int m, int n)
     Console.ResetColor();
 }
 
-// функция сумма чисел от M до N
 int SumMN(int m, int n)
 {
     int res = m;
